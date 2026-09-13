@@ -8,7 +8,7 @@ const Main = () => {
             <div className='p-5 text-center bg-light-dark rounded'>
                 <h1 className='text-light'>Stock Prediction Portal</h1>
                 <p className='text-light lead'>This is my demo learning project. Thanks for coming here.</p>
-                <Button text='Login' class="btn-outline-info" url='/login'/>
+                <Button text='Explore Now' class="btn-outline-info" url='/dashboard'/>
             </div>
         </div>
 
